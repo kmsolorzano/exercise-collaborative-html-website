@@ -1,3 +1,26 @@
 body{
     background: #BDBDBD;
 }
+
+.portfolio{
+    background-color: aliceblue;
+    padding: 5%;
+}
+
+.portfolio-proyect {
+    display: flex;
+    
+}
+
+.proyect2{
+    padding-inline: 1%;
+}
+
+.img-proyect {
+    width: 350px;
+    height: 200px;
+}
+
+.proyect p {
+    width: 350px;
+}
